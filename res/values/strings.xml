@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoMedia</string>
+    <string name="access">Random Image display, sorry :(</string>
+
+    <!-- noMedia -->
+    <string name="nomedia">noMedia</string>
+    <string name="nomedia_save">Add noMedia</string>
+    <string name="nomedia_remove">Remove noMedia</string>
+    <string name="nomedia_rescan">Rescan media</string>
+    <string name="cleansd_add">Add to init.d file</string>
+    <string name="cleansd_save">Save init.d file</string>
+    <string name="cleansd_remove">Remove init.d file</string>
+
+</resources>

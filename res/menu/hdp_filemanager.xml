@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/remove_nomedia"
+        android:icon="@drawable/ic_remove"
+        android:showAsAction="ifRoom"
+        android:title="@string/nomedia_remove">
+    </item>
+    <item
+        android:id="@+id/save_nomedia"
+        android:icon="@drawable/ic_add"
+        android:showAsAction="ifRoom"
+        android:title="@string/nomedia_save">
+    </item>
+    <item
+        android:id="@+id/cleansd_add"
+        android:icon="@drawable/ic_delete"
+        android:showAsAction="ifRoom"
+        android:title="@string/cleansd_add">
+    </item>
+    <item
+        android:id="@+id/rescan_nomedia"
+        android:icon="@drawable/ic_reload"
+        android:showAsAction="ifRoom"
+        android:title="@string/nomedia_rescan">
+    </item>
+    <item
+        android:id="@+id/cleansd_save"
+        android:icon="@drawable/ic_save"
+        android:title="@string/cleansd_save">
+    </item>
+    <item
+        android:id="@+id/cleansd_remove"
+        android:icon="@drawable/ic_trash"
+        android:title="@string/cleansd_remove">
+    </item>
+</menu>
